@@ -4,5 +4,6 @@
         "name": "nginx",
         "tags": ["web"],
         "port": 80
-    }
+    },
+    "encrypt": "5oMGaRHESERKiWe+j8MjOZ+CRUfb/IH4ebj/9Yx8UZA="
 }
