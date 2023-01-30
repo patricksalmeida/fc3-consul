@@ -4,5 +4,9 @@
     "bootstrap_expect": 3,
     "data_dir": "/tmp",
     "node_name": "consul-server-01",
-    "encrypt": "5oMGaRHESERKiWe+j8MjOZ+CRUfb/IH4ebj/9Yx8UZA="
+    "encrypt": "5oMGaRHESERKiWe+j8MjOZ+CRUfb/IH4ebj/9Yx8UZA=",
+    "client_addr": "0.0.0.0",
+    "ui_config": {
+        "enabled": true
+    }
 }
